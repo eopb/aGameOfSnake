@@ -65,7 +65,5 @@ def keyboard(*args):
     if args[0] == ESCAPE:
         print ("exiting")
         snakeCalc.endGame = True
-        #glutDestroyWindow(window)
-        #sys.exit()
     if args[0] == 'e':
         var.SnakeHue = colorsys.hsv_to_rgb((randint(1, 10000)/10000), (randint(1, 10000)/10000), 1)
