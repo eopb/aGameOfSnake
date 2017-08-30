@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-
+# Python is cool
 # Really cool python snake game!
 # Made by Ethan Brierley
 
