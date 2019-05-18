@@ -31,5 +31,7 @@ It's also cool to see it play on a large canvas.
 ```
 sudo apt-get install freeglut3-dev
 pip install PyOpenGL PyOpenGL_accelerate
+git clone https://github.com/ethanboxx/aGameOfSnake.git
+cd aGameOfSnake/
 python2 index.py
 ```
